@@ -1,0 +1,17 @@
+{
+	"swap": {
+		"ipfs": {
+			"1": "QmQWSU6KbMmwbTHy9Ff7LnJkBvo8UGyzq1fH1rXP46knuf"
+		},
+		"dat": {
+			"1": "2b78cfdb34d9fcaced2aa8f2b4403366f7d4e63b3530d1362f3e8959dacfb2fb",
+			"2": "swap.hashbase.io"
+		},
+		"www": {
+			"1": "ipfs.io/ipfs/QmQWSU6KbMmwbTHy9Ff7LnJkBvo8UGyzq1fH1rXP46knuf",
+			"2": "gateway.pinata.cloud/QmQWSU6KbMmwbTHy9Ff7LnJkBvo8UGyzq1fH1rXP46knuf",
+			"3": "swap.hashbase.io",
+			"4": "ipfswap.com"
+		}
+	}
+}

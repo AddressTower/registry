@@ -1,0 +1,8 @@
+chown -h 1000:1000 './AddressTower.txt'
+chmod 0777 './AddressTower.txt'
+/usr/bin/touch -hcmd "2022-01-13 01:06:05.0000000000 -0300" './AddressTower.txt'
+/usr/bin/touch -hcad "2022-12-07 23:05:37.6880887000 -0300" './AddressTower.txt'
+chown -h 1000:1000 './dns.json'
+chmod 0777 './dns.json'
+/usr/bin/touch -hcmd "2019-11-12 01:18:10.0000000000 -0300" './dns.json'
+/usr/bin/touch -hcad "2022-12-07 23:03:46.9543675000 -0300" './dns.json'
